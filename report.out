@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Preliminary computations}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Finding the transmission coefficient T}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{The probability current}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Time-independent formulation}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Nondimesionalization}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Transparent boundary conditions: derivation and assumptions}{}% 7
+\BOOKMARK [1][-]{section.4}{A finite difference approximation for Schr\366dinger equation}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Finite differences method}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Finite difference solution of Schr\366dinger equation}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Boundary conditions}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Consistency of the scheme}{}% 12
+\BOOKMARK [1][-]{section.6}{Order of convergence}{}% 13
+\BOOKMARK [1][-]{section.7}{Implementation}{}% 14
+\BOOKMARK [1][-]{section.8}{Possible improvement: Galerkin approach}{}% 15
+\BOOKMARK [1][-]{section.9}{Validation}{}% 16
+\BOOKMARK [2][-]{subsection.9.1}{Variating the potential}{section.9}% 17
+\BOOKMARK [1][-]{section.10}{Conclusions}{}% 18
+\BOOKMARK [1][-]{section.11}{Job splitting}{}% 19
+\BOOKMARK [1][-]{section.11}{REFERENCES}{}% 20

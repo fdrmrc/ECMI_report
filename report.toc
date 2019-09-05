@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Preliminary computations}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Finding the transmission coefficient \textbf {T}}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The probability current}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Time-independent formulation}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Nondimesionalization}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}Transparent boundary conditions: derivation and assumptions}{8}{section.3}
+\contentsline {section}{\numberline {4}A finite difference approximation for Schr{\"o}dinger equation}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}Finite differences method}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Finite difference solution of Schr{\"o}dinger equation}{9}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Boundary conditions}{10}{subsection.4.3}
+\contentsline {section}{\numberline {5}Consistency of the scheme}{11}{section.5}
+\contentsline {section}{\numberline {6}Order of convergence}{12}{section.6}
+\contentsline {section}{\numberline {7}Implementation}{12}{section.7}
+\contentsline {section}{\numberline {8}Possible improvement: Galerkin approach}{14}{section.8}
+\contentsline {section}{\numberline {9}Validation}{16}{section.9}
+\contentsline {subsection}{\numberline {9.1}Variating the potential}{16}{subsection.9.1}
+\contentsline {section}{\numberline {10}Conclusions}{18}{section.10}
+\contentsline {section}{\numberline {11}Job splitting}{18}{section.11}
+\contentsline {section}{REFERENCES}{20}{section.11}
